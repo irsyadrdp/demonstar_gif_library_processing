@@ -1,0 +1,3 @@
+Copy 'gifAnimation' folder to Processing library folder: C:\Users\user\Documents\libraries.
+"user" --> depend on computer's name.
+After that restart the Processing, that's all.
